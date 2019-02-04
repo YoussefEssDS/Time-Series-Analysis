@@ -4,8 +4,8 @@ Using MS Excel,Matlab and SPSS Statistics, I will explore different aspects of t
 
 Mainly: 
 
-## 1- Trend models: Linear, Exponential, Logistic, Gompertz.
+### 1- Trend models: Linear, Exponential, Logistic, Gompertz.
 
-## 2- Time series decomposition: Additif/Multiplicatif models.
+### 2- Time series decomposition: Additif/Multiplicatif models.
 
-## 3- Exponential Smoothing: Simple, Double, Holt, Holt-Winters.
+### 3- Exponential Smoothing: Simple, Double, Holt, Holt-Winters.
