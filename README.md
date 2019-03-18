@@ -9,3 +9,5 @@ Mainly:
 ### 2- Time series decomposition: Additif/Multiplicatif models.
 
 ### 3- Exponential Smoothing: Simple, Double, Holt, Holt-Winters.
+
+### 4- Box-Jenkins method.
