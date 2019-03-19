@@ -8,7 +8,7 @@ function mape=mapeLogistic(x)
     mape=0;
     len=length(y);
     for i=1:len
-        mape=mape+100*abs(1/(x(1)*x(2)^i+x(3)-y(i)))/y(i);
+        mape=mape+100*abs(1/(x(1)*x(2)^i+x(3))-y(i))/y(i);
     end
     mape=mape/len;
 end
