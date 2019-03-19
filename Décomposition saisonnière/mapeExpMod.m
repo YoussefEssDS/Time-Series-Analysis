@@ -6,12 +6,9 @@
 function mape=mapeExpMod(x)
     read_variables; % lecture des variables à partir du fichier Excel.
     mape=0;
-    alpha=x(1);
-    beta=x(2);
-    gamma=x(3);
     len=length(y);
     for i=1:len
-        mape=mape+100*abs(alpha*beta^i+gamma-y(i))/y(i);
+        mape=mape+100*abs(x(1)*x(2)^i+x(3)-y(i))/y(i);
     end
     mape=mape/len;
 end
