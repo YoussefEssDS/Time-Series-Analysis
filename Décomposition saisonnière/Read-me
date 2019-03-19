@@ -1,0 +1,14 @@
+## Etude de la tendance des séries temporelles: 
+
+Sur MS Excel nous allons effectué les opérations suivantes:
+Créer:
+  
+  1- Modèle linéaire. (Regression linéaire)
+  2- Modèle exponentiel. (Méthode des trois points)
+  3- Modèle exponentiel modifié.
+  4- Modèle de Gompertz.
+  5- Modèle logistique.
+ 
+Puis à l'aide des fonctions d'optimimsation de Matlab nous allons optimiser la méthode des trois points pour trouver le meilleur
+modèle.
+
