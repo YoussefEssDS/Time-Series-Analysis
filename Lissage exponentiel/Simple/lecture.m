@@ -1,3 +1,5 @@
+%Importing data from the Excel file.
+
 %% Import data from spreadsheet
 % Script for importing data from the following spreadsheet:
 %

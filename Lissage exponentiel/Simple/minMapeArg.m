@@ -1,4 +1,5 @@
-% Minimizes a multi-variable function with constraints on theire bounds. 
+% Minimizes a multi-variable function with constraints on theire bounds.
+% in this case we bound alpha to [0,1] and F1 to [-Inf,+Inf].
 function [x,fval]=minMapeArg(x0,fun)
 lecture;
 A=[];b=[];
