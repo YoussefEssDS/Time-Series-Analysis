@@ -2,7 +2,7 @@
 %file. It takes an alpha and a F1 the initialization to calculate the mape.
 %We will use matlab's advanced functions for optimization to get the optimal
 %alpha and F1.
-%Feel free to try this function with the alpha u choosed in the excel and 
+%Feel free to try this function with the alpha u choosed in the excel file and 
 %F1 as the average of the first 3 observations and compare the results!
 function mape=MapeLES(x)
 lecture;
