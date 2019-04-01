@@ -1,0 +1,3 @@
+Nous explorons dans cette partie le lissage exponentielle permettant de tenir en compte les séries avec une tendance. 
+Au debut on utilise un paramètre de lissage, et on calcule le mape de la série ajustée, après à l'aide de la fonction d'optimisation
+avec contraintes de Matlab on détermine la valeur de ce parametre qui grantit le MAPE minimal.
