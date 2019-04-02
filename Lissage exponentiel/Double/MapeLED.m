@@ -1,9 +1,10 @@
-%This function calculates the mape from the data we loaded from the excel   
+%This function calculates the mape from the data we loaded from the Excel   
 %file. It takes an alpha, S1 and T1 which is the initialization to calculate the mape.
 %We will use matlab's advanced functions for optimization to get the optimal
 %alpha, S1 and T1.
 %Feel free to try this function with the alpha u choosed in the excel and 
 %F1 as the average of the first 3 observations and compare the results!
+%hint: you should get same results as in the Excel file.
 function mape=MapeLED(x)
 lecture;
 mape=0;

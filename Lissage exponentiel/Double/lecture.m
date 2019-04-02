@@ -1,4 +1,4 @@
-%% Import data from spreadsheet
+%% Importing data from spreadsheet
 % Script for importing data from the following spreadsheet:
 %
 %    Workbook: E:\git\Time-Series-Analysis\ExpSmoothing\Double\Lissage expo double.xls

@@ -1,4 +1,4 @@
-% Minimizes a multi-variable function with constraints on theire bounds. 
+% Minimizes a multi-variable function with constraints on its arguments bounds. 
 %Try different initializiation to find the best values that give the
 %minimal mape.
 function [x,fval]=minMapeArg(x0,fun)
